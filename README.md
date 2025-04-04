@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gabriel Brugnara
 
 Desenvolvedor Júnior focado em aprender na prática.  
-Atualmente desenvolvendo projetos próprios para evoluir como **Full Stack ASP.NET MVC**, com backend em C# e frontend usando HTML, CSS, Bootstrap e JavaScript.
+Atualmente desenvolvendo projetos próprios para evoluir como **Full Stack ASP.NET MVC**, com backend em C# e frontend usando HTML, CSS, Bootstrap e JavaScript, AJAX.
 
 ---
 
@@ -16,7 +16,7 @@ Atualmente desenvolvendo projetos próprios para evoluir como **Full Stack ASP.N
 ### 💻 Tecnologias que venho utilizando
 
 - **Back-end:** C#, .NET 6/8, ASP.NET Core MVC
-- **Front-end:** HTML, CSS, JavaScript, Bootstrap
+- **Front-end:** HTML, CSS, JavaScript, Bootstrap ,AJAX
 - **Banco de Dados:** SQL Server, SQLite, Firebird
 - **Outros:** Entity Framework, LINQ, Visual Studio, Git
 
